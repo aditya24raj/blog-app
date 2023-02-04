@@ -7,6 +7,7 @@
 	let scaleOnHover = 'scale-100';
 	let underlineClass = '';
 	let arrowForwardOnHover = '';
+	// image seed- https://www.freepik.com/free-vector/collection-watercolor-covers-pastel-colors_11481471.htm?query=abstract&collectionId=236&&position=34&from_view=collections
 </script>
 
 <a id="featuredArticle" href="#">
@@ -36,7 +37,7 @@
 	}
 
 	#tag {
-		font-family: 'Roboto Mono', monospace;
+		/* font-family: 'Roboto Mono', monospace; */
 		text-transform: lowercase;
 		margin-bottom: 10px;
 	}
@@ -47,7 +48,7 @@
 		line-height: clamp(36px, 3.06vw, 44px);
 		margin-bottom: 25px;
 		letter-spacing: -0.5px;
-		font-family: 'Open Sans', sans-serif;	
+		/* font-family: 'Open Sans', sans-serif;	 */
 	}
 
 	#summary {

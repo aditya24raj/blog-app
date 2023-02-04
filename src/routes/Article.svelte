@@ -36,7 +36,7 @@
 	}
 
 	#tag {
-		font-family: 'Roboto Mono', monospace;
+		/* font-family: 'Roboto Mono', monospace; */
 		text-transform: lowercase;
 		margin-bottom: 10px;
 	}
@@ -47,7 +47,7 @@
 		line-height: clamp(36px, 3.06vw, 44px);
 		margin-bottom: 25px;
 		letter-spacing: -0.5px;
-		font-family: 'Open Sans', sans-serif;
+		/* font-family: 'Open Sans', sans-serif; */
         display: block;
         min-height: calc(clamp(36px, 3.06vw, 44px)*2);	
 	}

@@ -1,6 +1,6 @@
 	<header id="header">
-		<div id="title">$ ./blog</div>
-		<div id="description">little contents on code, literature & art</div>
+		<div id="title">Aditya Raj : Blog</div>
+		<!-- <div id="description">i</div> -->
 
 		<!-- <div _ngcontent-xof-c39="" class="squiggle">
 			<svg
@@ -26,8 +26,9 @@
 
 	<style>
 		#header {
-			font-family: 'Ubuntu Mono', monospace;
+			/* font-family: 'Ubuntu Mono', monospace; */
 			/* font-family: 'Open Sans', sans-serif; */
+			/* font-family: 'JetBrains Mono', monospace; */
 			margin-bottom: 50px;
 		}
 
@@ -41,7 +42,8 @@
 			font-size: 20px;
 			margin: 25px auto;
 			color: grey;
-			font-family: 'Open Sans', sans-serif;
+			/* font-family: 'Open Sans', sans-serif; */
+			/* font-family: 'JetBrains Mono', monospace; */
 		}
 
 		@media (max-width: 1280px) {
